@@ -5,7 +5,7 @@ A modern, full-stack web application boilerplate combining Laravel and Vue.js wi
 ## Tech Stack
 
 ### Backend
-- **Laravel 12** - PHP framework for web application development
+- **Laravel 12 (Updated)** - PHP framework for web application development
 - **PHP 8.2+** - Latest PHP version for improved performance and features
 - **Inertia.js** - The glue that connects Laravel backend with Vue.js frontend
 
